@@ -1,1 +1,1 @@
-Not empty repo
+My first readme new updated
